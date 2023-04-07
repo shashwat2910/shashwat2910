@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shashwat Sharma</h1>
-<h3 align="center">A passionate frontend devin 4th year pursuing a B.Tech degree in Computer Science Engineering. I am a programmer with excellent problem-solving skills and the ability to perform well in a team. Passionate about coding and optimizing it.eloper from India</h3>
+<h3 align="center">I am Shashwat Sharma in 4th year pursuing a B.Tech degree in Computer Science Engineering. I am a highly skilled and motivated software engineer with experience in a variety of technologies and tools, including AWS, NodeJS, MySQL, Flutter, MongoDB, and Firebase. I am a hard worker and a natural leader, and I have a proven track record of successfully delivering projects on time.
+
+In my current role, I am responsible for developing and maintaining a variety of software applications, using a range of technologies and frameworks. I have a strong ability to adapt to new technologies and environments, and I am always eager to learn and improve my skills.
+
+In addition to my technical expertise, I am a team player who excels in collaborative environments. I have experience leading small teams, and I am comfortable working with both technical and non-technical stakeholders.
+
+I am also an active member of the Google Developer Student Club, where I have had the opportunity to work on a number of exciting projects and contribute to the growth and success of the organization.
+
+I am looking for new opportunities to challenge myself and continue growing as a software engineer. If you are looking for a dedicated, skilled, and driven team member, please do not hesitate to contact me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat2910&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat2910" /> </p>
 
